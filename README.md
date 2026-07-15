@@ -37,43 +37,14 @@ Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Back
 
 # 🚀 Projetos em Destaque
 
-## 🛒 Gear Hub
-
+### 🛒 Gear Hub
 Marketplace C2C para compra e venda de hardware.
-
-### Principais recursos
-
-- CRUD completo
-- Sistema de autenticação
-- Perfil de usuário
-- Favoritos
-- Upload de imagens
-- Filtros de pesquisa
-- Class Based Views
-- PostgreSQL
-- Cloudinary
-- Railway
-
-**Tecnologias**
 
 `Python` `Django` `PostgreSQL` `Cloudinary` `Railway`
 
----
 
-## 📚 Beanary API
-
+### 📚 Beanary API
 API REST para gerenciamento de biblioteca desenvolvida utilizando Django REST Framework.
-
-### Principais recursos
-
-- JWT Authentication
-- CRUD completo
-- Permissões
-- Organização em Apps
-- Versionamento
-- Collection Postman
-
-**Tecnologias**
 
 `Python` `Django REST Framework` `PostgreSQL`
 
@@ -121,9 +92,6 @@ API REST para gerenciamento de biblioteca desenvolvida utilizando Django REST Fr
 - ✅ PostgreSQL
 - ✅ Git & GitHub
 - 🚀 Django REST Framework
-- ⏳ Docker
-- ⏳ Testes Automatizados
-- ⏳ Deploy e CI/CD
 
 ---
 
