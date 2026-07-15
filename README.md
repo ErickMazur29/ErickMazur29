@@ -25,7 +25,7 @@
 
 ---
 
-# 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
 Sou estudante de **Engenharia da Computação** apaixonado por desenvolvimento backend.
 
@@ -35,57 +35,7 @@ Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Back
 
 ---
 
-# 🚀 Projetos em Destaque
-
-### 🛒 Gear Hub
-Marketplace C2C para compra e venda de hardware.
-
-`Python` `Django` `PostgreSQL` `Cloudinary` `Railway`
-
-
-### 📚 Beanary API
-API REST para gerenciamento de biblioteca desenvolvida utilizando Django REST Framework.
-
-`Python` `Django REST Framework` `PostgreSQL`
-
----
-
-# 🛠 Tecnologias
-
-### Backend
-
-<p>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"/>
-
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"/>
-
-</p>
-
-### Banco de Dados
-
-<p>
-
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-
-</p>
-
-### Ferramentas
-
-<p>
-
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-
-</p>
-
----
-
-# 📚 Atualmente estudando
+## 📚 Atualmente estudando
 
 - ✅ Python Avançado
 - ✅ Django
@@ -95,7 +45,7 @@ API REST para gerenciamento de biblioteca desenvolvida utilizando Django REST Fr
 
 ---
 
-# 📊 Estatísticas
+## 📊 Estatísticas
 
 <p align="center">
 
@@ -111,7 +61,7 @@ API REST para gerenciamento de biblioteca desenvolvida utilizando Django REST Fr
 
 ---
 
-# 📫 Contato
+## 📫 Contato
 
 <p align="center">
 
@@ -125,14 +75,4 @@ API REST para gerenciamento de biblioteca desenvolvida utilizando Django REST Fr
 
 </p>
 
----
 
-<p align="center">
-
-### Obrigado pela visita! ⭐
-
-Se algum projeto chamou sua atenção, fique à vontade para explorar os repositórios ou deixar uma ⭐.
-
-Sempre aberto para aprender, trocar experiências e colaborar em novos projetos.
-
-</p>
