@@ -131,9 +131,7 @@ API REST para gerenciamento de biblioteca desenvolvida utilizando Django REST Fr
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ErickMazur29&show_icons=true&theme=dracula&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickMazur29&layout=compact&theme=dracula&hide_border=true"/>
+<img height="195em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErickMazur29&show_icons=true&theme=dracula&hide_border=true"/>
 
 </p>
 
